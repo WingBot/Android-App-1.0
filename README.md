@@ -11,6 +11,7 @@
 2）下载 Android Studio
 
    地址：https://developer.android.com/studio/index.html#linux-bundle
+   
    运行../bin/studio.sh 进行安装
    
 3）导入项目
